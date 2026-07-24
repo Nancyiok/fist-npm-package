@@ -1,0 +1,21 @@
+{
+  "name": "@anastasiia_kurdiukova/ects-anastasiia-kurdiukova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nancyiok/fist-npm-package.git"
+  },
+  "author": "Anastasiia Kurdiukova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nancyiok/fist-npm-package/issues"
+  },
+  "homepage": "https://github.com/Nancyiok/fist-npm-package#readme"
+}
