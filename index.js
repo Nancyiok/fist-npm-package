@@ -15,8 +15,9 @@ class ECTS {
     } else if (this.score >= 60 && this.score <= 64) {
       return "E";
     }
-    return F;
+    return "F"; 
   }
 }
 
-export { ECTS };
+
+module.exports = ECTS;
